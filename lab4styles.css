@@ -1,0 +1,36 @@
+body {
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  .section {
+    border: 2px solid purple;
+    border-radius: 10px;
+    padding: 15px;
+    margin: 20px;
+    display: inline-block;
+    background-color: white;
+  }
+  
+  input {
+    margin-right: 10px;
+    padding: 5px;
+  }
+  
+  button {
+    padding: 5px 10px;
+    background-color: purple;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: darkviolet;
+  }
+  
